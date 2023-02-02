@@ -1,0 +1,21 @@
+//frist coding challange: BMI Calculator
+*/
+/*
+var personName = 'john';
+var friendName = 'mark';
+var johnMass = 90 ;
+console.log(personName + ' ' + ' mass equal to ' +johnMass);
+var markMass = 85 ;
+console.log(friendName + ' ' + ' mass equal to ' +markMass);
+var johnHeight = 6.3 ;
+console.log(personName + ' ' + ' height equal to ' +johnHeight);
+var markHeight = 6.1 ;
+console.log(friendName + ' ' + ' height equal to ' +markHeight);
+var bmiOfJohn = 90/6.3^2;
+console.log('john bmi is equal to ' + bmiOfJohn);
+var bmiOfMark = 85/6.1^2;
+console.log('mark bmi is equal to ' + bmiOfMark);
+var bmigreater = bmiOfJohn >= bmiOfMark;
+console.log(' is john bmi is greater than mark ?');
+console.log(bmigreater)
+*/
